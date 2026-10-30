@@ -287,4 +287,4 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-*call-of-duty-warzone-workshop · Updated 2026-10-29 · Shared under the MIT License*
+*call-of-duty-warzone-workshop · Updated 2026-10-30 · Shared under the MIT License*
